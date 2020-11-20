@@ -15,3 +15,5 @@ analyzers
 deploy
 .local-chromium
 NPGSQL_FSHARP
+.fake
+*.csv
